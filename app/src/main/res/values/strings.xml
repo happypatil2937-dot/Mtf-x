@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Krunal Quant</string>
+    <string name="desk_title">KRUNAL CAPITAL DESK</string>
+    <string name="desk_subtitle">Proprietary Algorithmic Trading &amp; Company Vault</string>
+    <string name="architect_badge">Engineered for Boss Krunal by Aryan Verma • Chief Quant (#01 Employee)</string>
+    <string name="tab_live_desk">Quant Desk</string>
+    <string name="tab_strategy_lab">Strategy Lab</string>
+    <string name="tab_trade_ledger">Trade Ledger</string>
+    <string name="tab_company_vault">Company Vault</string>
+    <string name="live_feed_active">LIVE MARKET FEED</string>
+    <string name="refresh_live_data">Refresh Live Market Data</string>
+    <string name="deploy_signal_cta">Deploy Signal to Company Ledger</string>
+    <string name="tune_strategy_cta">Tune Strategy Parameters</string>
+    <string name="add_manual_trade">Log New Position</string>
+    <string name="add_company_record">Add Company Record</string>
+    <string name="export_company_report">Export Desk Audit</string>
+    <string name="close_at_market">Close at Market</string>
+    <string name="empty_trades_message">No positions in this filter. Deploy a live quant signal or log a manual position.</string>
+    <string name="empty_vault_message">No company records match your search. Add a new treasury or desk record below.</string>
+</resources>

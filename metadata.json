@@ -1,0 +1,6 @@
+{
+  "name": "Krunal Quant",
+  "description": "Institutional live market quant terminal, multi-indicator confluence strategy tracker, and cloud trade ledger built for Krunal Capital Desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
